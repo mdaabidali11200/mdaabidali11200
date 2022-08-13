@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+  margin: 0;
+  height: 100wh;
+  /* padding: 10px; */
+  background-image: url('../IMG/nature');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+body :hover{
+  background-color: tomato;
+}
+
+.header{
+  padding: 15px;
+  height: 282px;
+  width: 522px;
+  background-image: linear-gradient( to right,red,green,yellow,black,orange,tomato,blue);
+  margin-left: 430px;
+  margin-top: 34px;
+  border-radius: 0px;
+  border: 25px green double;
+}
+
+.searchbar{
+  text-align:unset;
+  margin-top: 60px;
+  margin-left: 30px;
+  height: 40px;
+  width: 300px;
+  border-radius: 10px;
+  border: 1px grey solid;  
+  outline: none;
+}
+
+.btn{
+  height: 40px;
+  width: 120px;
+  background-color: #fff;
+  color: black;
+  border-radius: 10px;
+  border: 1px grey solid;  
+
+}
+
+.nav{
+  padding: 0px;
+  height: 80px;
+  width: 1100px;
+  margin-left: 120px;
+  background-color: bisque;
+  border-radius: 15px;
+  position: relative;
+  border-bottom: 20px green solid;
+  border-left: 50px rgb(250, 4, 45) solid;
+  border-right: 50px rgba(250, 234, 4, 0.973) solid;
+  border-top: 20px pink solid;
+}
+
+.second{
+  margin-top: 34px;
+  height: 100px;
+  width: 1270px;
+  background-color: rgba(0, 0, 255, 0.973);
+  color: rgba(255, 255, 0, 0.973);
+  border-radius: 100px;
+  margin-left: 60px;
+  border: 5px red dotted;
+}
+
+.btn{
+  margin-top: 25px;
+  border-radius: 20px;
+  border-top:7px rgb(247, 10, 10) solid;
+  border-left:7px rgb(0, 255, 0) solid;
+  border-right:7px rgb(255, 0, 234) solid;
+  border-bottom:7px rgb(15, 15, 15) solid;
+}
+
+.Footer{
+  height: 150px;
+  width: 946px;
+  background-color: aqua;
+  margin-left: 224px;
+  border: 25px red groove;
+}
+
+.nav2{
+  height: 80px;
+  width: 1366px;
+  background-color: black;
+}
+
+.left{
+  height: 190px;
+  width: 50%;
+  background: rgb(247, 4, 4);
+  display: inline-block;
+}
+
+.right{
+  height: 190px;
+  width: 50%;
+  background-color: green;
+  display: inline-block;
+}

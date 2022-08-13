@@ -1,0 +1,158 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.NavLeftBtn{
+    margin-left: 200px;
+}
+
+.NavLeftBtn .ActivePage{
+    border-bottom: 2px rgb(36, 102, 243) solid;
+}
+
+
+.heading{
+    margin-top: 2px;
+    margin-left: 200px;
+}
+.ParaGraf{
+    margin-left: 20px;
+}
+
+.headingRight{
+    margin-left: 20px;
+}
+
+.NavRightBtn{
+    margin-right: 30px;
+}
+
+.MainContent{
+    font-size: 20px;
+}
+
+.mainBtn{
+    font-size: 13px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.fw-bold{
+    font-size: 25px;
+}
+
+.compare{
+    width: 735px;
+} 
+
+.searchSection{
+    border-radius: 10px;
+    width: fit-content;
+    margin-left: 255px;
+    border: 1px solid grey;
+}
+
+.SearchInp{
+    width: 300px;
+    border: none;
+}
+
+.DateInp{
+    width: 120px;
+    margin-left: 15px;
+    border: none;
+}
+
+.Guest{
+    width: 120px;
+    border: none;
+    margin-left: 15px;
+}
+
+.searchBtn{
+    padding: 5px 50px;
+}
+
+.quote{
+    margin-left: 250px;
+}
+
+.compare{
+    width: 870px;
+    margin-left: 265px;
+}
+
+.compText{
+    text-decoration: none;
+    font-size: small;
+}
+
+.quote2{
+    margin-left: 240px;
+    margin-top: 200px;
+}
+
+.HotelBtn{
+    margin-left: 240px;
+}
+.btn-1{
+    color: rgb(25, 77, 233);
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: 3px solid rgb(25, 77, 233);
+}
+
+.btn-2{
+    color: grey;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.btn-1:hover{
+    color: black;
+}
+
+.btn-2:hover{
+    color: black;
+} 
+
+.textsmall{
+    font-size: 15px;
+}
+
+.footer{
+    height: 790px;
+    width: 1348px;
+    background-color: rgb(11, 11, 31);
+    color: white;
+    margin-top: 70px;
+}
+
+.search{
+    height: 50px;
+    width: 420px;
+    border-radius: 10px;
+}
+
+.HrLine{
+    margin-top: 50px;
+}
+
+.Btn{
+    height: 50px;
+    width: 350px;
+    margin-left: 200px;
+    border-radius: 12px;
+}
+
+.IMG{
+    margin-left: 365px;
+}
+
+.LastLine{
+    text-align: center;
+    font-size: 12px;
+}
+
+
